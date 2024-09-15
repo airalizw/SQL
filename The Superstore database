@@ -55,7 +55,7 @@ SELECT MAX(price)category
 FROM superstore
 WHERE category="Kitchen Supplies";
 
-#Come uo with your own question about the data and try to answer it using SQL.
+#Come up with your own question about the data and try to answer it using SQL.
 SELECT COUNT (category)
 FROM superstore
 WHERE category="Furnishings";
